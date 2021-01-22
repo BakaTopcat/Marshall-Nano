@@ -8,3 +8,5 @@ Hardware used:
 - 128x64 I2C OLED
 - Rotary encoder with push function
 - UART to RS-485 adapter
+
+Before uploading the RCP sketch, the marshall-visca-write-eeprom-1 has to be uploaded. This sketch writes to EEPROM all necessary data.
