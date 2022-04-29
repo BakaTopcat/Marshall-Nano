@@ -10,3 +10,5 @@ Hardware used:
 - UART to RS-485 adapter
 
 Before uploading the RCP sketch, the **marshall-visca-write-eeprom-1** has to be uploaded. This sketch writes to EEPROM all necessary data.
+
+[Discussions](https://github.com/BakaTopcat/Marshall-Nano/discussions) are open.
